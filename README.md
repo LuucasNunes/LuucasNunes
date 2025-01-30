@@ -12,6 +12,6 @@
     <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-### 📖💻Estudante de tecnologia autodidata, em busca de poder participar de projetos desafiadores e assim poder elevar meu conhecimento na área da programação!🚀🚀🚀
+### 📖💻Estudante de tecnologia, em busca de poder participar de projetos desafiadores e assim poder elevar meu conhecimento na área da programação!🚀🚀🚀
 
 ### 📧 Email para contato: llucas-nunes@hotmail.com
